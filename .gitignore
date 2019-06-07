@@ -3,3 +3,6 @@
 ################################################################################
 
 /mqtt-csharp/obj
+/mqtt-csharp/bin/Debug/netcoreapp2.1
+/rabbitmq/.vs/python-rabbitmq/v16
+/rabbitmq/.vs/python-rabbitmq/DesignTimeBuild

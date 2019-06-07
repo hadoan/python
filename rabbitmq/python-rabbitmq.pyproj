@@ -54,6 +54,12 @@
     <Compile Include="06_rpc_server.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="07_mqtt_receiver.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="07_mqtt_sender.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
